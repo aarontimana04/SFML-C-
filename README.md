@@ -20,5 +20,5 @@ Luego ./polidash_sfml para observar los textos
 > Para que se vean textos, coloca un `.ttf` en `assets/DejaVuSans.ttf` o `arial.ttf` junto al ejecutable.
 
 
-![Vista previa del juego](assets/screen1.jpeg)
+![Vista previa del juego](polidash_runner_sfml3-2/assets/screen1.jpeg)
 
